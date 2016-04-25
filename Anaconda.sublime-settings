@@ -1,0 +1,7 @@
+{
+    "auto_complete_triggers": [
+        {"selector": "source.python - string - comment - constant.numeric", "characters": "."}
+    ],
+    "enable_signatures_tooltip": true,
+    "merge_signatures_and_doc": true,
+}

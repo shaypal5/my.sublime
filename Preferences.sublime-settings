@@ -1,0 +1,42 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/User/SublimeLinter/TomorrowShay (SL).tmTheme",
+	"color_scheme_1": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme_23s": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
+	"color_scheme_as": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme_asd": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"color_scheme_s": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"font_size": 15.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		79
+	],
+	"sidebar_container": "#1d1f21",
+	"sidebar_font_small": true,
+	"sidebar_medium": false,
+	"tab_size": 4,
+	"theme": "Cobalt2.sublime-theme",
+	"theme_1": "Oceanic Next.sublime-theme",
+	"theme_2": "Broceanic.sublime-theme",
+	"theme_default": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}

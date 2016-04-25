@@ -1,0 +1,51 @@
+[
+    { // show-hide tabs
+        "keys": ["ctrl+shift+t"], "command": "toggle_tabs"
+    },
+	{ //toggle find-replace only in selection
+        "keys": ["alt+y"],
+        "command": "toggle_in_selection",
+        "context": [
+            { "key": "setting.is_widget", "operator": "equal", "operand": true }
+        ]
+    },
+    {// Copy file name
+        "keys": ["cmd+shift+c"],
+        "command": "copy_path_to_clipboard"
+    },
+    {// Close all other tabs
+        "keys": ["cmd+alt+w"],
+        "command": "close_tabs"
+    },
+    //Anaconda
+    {
+        "command": "anaconda_goto", "keys": ["ctrl+alt+g"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+    {
+        "command": "anaconda_find_usages", "keys": ["ctrl+alt+f"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+    {
+        "command": "anaconda_doc", "keys": ["ctrl+alt+d"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+    {
+        "command": "anaconda_auto_format", "keys": ["ctrl+alt+r"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+    {
+        "command": "anaconda_run_current_file_tests", "keys": ["ctrl+alt+t"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+    {
+        "command": "anaconda_run_current_test", "keys": ["ctrl+alt+shift+t"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    }
+]

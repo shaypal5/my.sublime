@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"GitGutter",
+		"GitSavvy",
+		"Glue",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Origami",
+		"Package Control",
+		"PlainTasks",
+		"Pylinter",
+		"Python Improved",
+		"Python PEP8 Autoformat",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeREPL",
+		"Terminality",
+		"Theme - Broceanic",
+		"Theme - Cobalt2",
+		"Theme - Dark Material",
+		"Themr",
+		"Tomorrow Color Schemes",
+		"Vintageous"
+	]
+}
